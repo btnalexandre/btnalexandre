@@ -18,6 +18,8 @@ J'interviens aussi bien pour **concevoir un projet de A à Z** que pour
 ## Mes contributions sur GitLab
 ![GitLab Contributions](https://gitblend.com/api/contributions?username=btnalexandre&theme=github)
 
+**GitLab** : https://gitlab.com/btnalexandre
+
 <!--
 **btnalexandre/btnalexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
