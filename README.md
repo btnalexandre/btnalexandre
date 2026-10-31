@@ -1,17 +1,17 @@
-### Salut, moi c'est Alexandre 👋
+### Hello 👋
 
-Développeur web **freelance** basé à Paris, spécialisé en **front-end** et dans
-l'écosystème JavaScript. Je conçois des interfaces modernes et performantes, avec
-une vraie attention portée au code : structuré, à jour, et pensé pour durer.
+Développeur front-end freelance, spécialisé en **React**, **Next.js** et **TypeScript**.
+6 ans d'expérience en start-up et en mission longue, avec la capacité d'intervenir
+aussi côté back-end quand le projet le demande.
 
-Tombé dans l'informatique à 6 ans, j'ai appris la programmation en autodidacte
-dès 13 ans en bricolant mes premiers plugins de jeux vidéo. Depuis, je n'ai jamais
-vraiment arrêté de construire des choses.
+J'accompagne les start-up sur leurs applications web, plateformes SaaS, marketplaces
+et design systems, que ce soit pour lancer un MVP, faire évoluer un produit existant
+ou renforcer une équipe en place.
 
-**Stack principale** : React · Next.js · TypeScript · Node.js
+J'intègre l'IA au cœur de mes workflows pour accélérer le développement, fiabiliser
+le code et optimiser les cycles de delivery.
 
-J'interviens aussi bien pour **concevoir un projet de A à Z** que pour
-**renforcer une équipe** existante.
+**Stack** : React · Next.js · TypeScript · Tailwind CSS · Node.js
 
 🚀 Dispo pour de nouveaux projets : [alexandrebettan.fr](https://alexandrebettan.fr)
 
@@ -19,18 +19,3 @@ J'interviens aussi bien pour **concevoir un projet de A à Z** que pour
 ![GitLab Contributions](https://gitblend.com/api/contributions?username=btnalexandre&theme=github)
 
 **GitLab** : https://gitlab.com/btnalexandre
-
-<!--
-**btnalexandre/btnalexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
